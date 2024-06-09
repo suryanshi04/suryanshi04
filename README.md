@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @suryanshi04
-- 👀 I’m interested in coding obviously
-- 🌱 I’m currently learning python, java and C/C++
-- 💞️ I’m looking to collaborate on PYTHON
+- 👀 This is my 3rd year in B.Tech CS with Full Stack Development
+- I am keen to colaborate on projects related to Web technologies and AI.
 - 📫 How to reach me GMAIL- @suryanshi180504@gmail.com
 
 <!---
